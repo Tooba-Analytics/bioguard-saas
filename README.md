@@ -33,7 +33,7 @@ Clinical / Research Notes
 - **Telemetry & Exports:** Run history and DuckDB audit ledger with Markdown, JSON, and CSV export options.
 
 ## Live Deployment
-- **Live App URL:** *( )*
+- **Live App URL:** *(https://bioguard-saas-yhiwnn43twgrmxxtde7hhs.streamlit.app/)*
 
 ## Local Setup
 
