@@ -1,1 +1,1 @@
-src/__init__.py
+# BioGuard AI package
